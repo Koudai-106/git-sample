@@ -7,9 +7,11 @@
     <title>Document</title>
 </head>
 <body>
-today = new Date();
-document.write(today);
-document.write("<h1>コンピュータグラフィックス</h1>")
-document.write("<p>2032106 土屋 幸大</p>")    
+<script type="text/javascript">
+    today = new Date();
+    document.write(today);
+    document.write("<h1>コンピュータグラフィックス</h1>")
+    document.write("<p>2032106 土屋 幸大</p>") 
+</script>
 </body>
 </html>
